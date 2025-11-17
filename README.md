@@ -60,6 +60,10 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+### 📘 New to ML Internship?
+
+Check out the [GETTING_STARTED.md](GETTING_STARTED.md) guide for a complete walkthrough, project ideas, and best practices!
+
 ## 📚 Projects
 
 Projects will be added throughout the internship period. Each project will have its own directory with:
