@@ -1,6 +1,4 @@
 # FUTURE_ML_01
-Machine Learning Internship Programe at Futre Interns.
-# FUTURE_ML_01
 **Machine Learning Internship Program at Future Interns**  
 Owner: Mazin Mohammedzain
 
