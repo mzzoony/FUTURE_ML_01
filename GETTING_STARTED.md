@@ -83,7 +83,7 @@ git push origin project/project-name
 
 ### Datasets
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [UCI ML Repository](https://archive.ics.uci.edu/ml/)
+- [UCI ML Repository](https://archive.ics.uci.edu/)
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 
 ### Tools
